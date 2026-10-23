@@ -1,0 +1,21 @@
+Registry;Source;Date
+NPR;Specialist health services;2008
+NRPHC;Primary/municipal health services;2017
+HKR;NPR;2012
+HKR;NCoDR;2012
+NCoDR;Specialist health services;1951
+NCoDR;Primary/municipal health services;1951
+MBRN;Specialist health services;1967
+MBRN;Primary/municipal health services;1967
+LMR;Pharmacies;2004
+ABR;Specialist health services;1979
+SYSVAK;Primary/municipal health services;1976
+SYSVAK;Specialist health services;1976
+MSIS;Specialist health services;1975
+MSIS;Primary/municipal health services;1975
+MSIS;Laboratories;1975
+CRN;Laboratories;1951
+CRN;Primary/municipal health services;1951
+CRN;Specialist health services;1951
+CRN;NCoDR;1951
+CRN;NPR;1951

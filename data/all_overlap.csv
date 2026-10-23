@@ -1,0 +1,315 @@
+overlap_concept;overlap_code;multiple_variables_concept;reg1;variabelnavn_reg1;reg2;variabelnavn_reg2;Type of overlap
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;ICD-10: Hovedtilstander;overlapping_information
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;ICD-10: Relevante bitilstander;overlapping_information
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;Akse1 - Hovedtilstand og andre relevante tilstandskoder (PHBU);overlapping_information
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;Akse2 - Hovedtilstand og andre relevante tilstandskoder (PHBU);overlapping_information
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;Akse3 - Hovedtilstand og andre relevante tilstandskoder (PHBU);overlapping_information
+diagnoses;1;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NPR;Akse4 - Hovedtilstand og andre relevante tilstandskoder (PHBU);overlapping_information
+medications;2;1;LMR;ATC-kode på 1. nivå;NPR;Sykehusadministrerte legemidler(ATC-koder);overlapping_information
+medications;2;1;LMR;ATC-kode på 2. nivå;NPR;Sykehusadministrerte legemidler(ATC-koder);overlapping_information
+medications;2;1;LMR;ATC-kode på 3. nivå;NPR;Sykehusadministrerte legemidler(ATC-koder);overlapping_information
+medications;2;1;LMR;ATC-kode på 4. nivå;NPR;Sykehusadministrerte legemidler(ATC-koder);overlapping_information
+medications;2;1;LMR;ATC-kode på 5. nivå;NPR;Sykehusadministrerte legemidler(ATC-koder);overlapping_information
+medications;3;1;LMR;ATC-kode på 1. nivå;MBRN;Legemidler under svangerskapet (restriktiv);overlapping_information
+medications;3;1;LMR;ATC-kode på 2. nivå;MBRN;Legemidler under svangerskapet (restriktiv);overlapping_information
+medications;3;1;LMR;ATC-kode på 3. nivå;MBRN;Legemidler under svangerskapet (restriktiv);overlapping_information
+medications;3;1;LMR;ATC-kode på 4. nivå;MBRN;Legemidler under svangerskapet (restriktiv);overlapping_information
+medications;3;1;LMR;ATC-kode på 5. nivå;MBRN;Legemidler under svangerskapet (restriktiv);overlapping_information
+diagnoses;4;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);HKR;"Hoveddiagnose, Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn";overlapping_information
+diagnoses;4;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);HKR;Bidiagnoser (Kodestreng);overlapping_information
+medications;5;1;LMR;ATC-kode på 1. nivå;SYSVAK;Vaksinekode;overlapping_information
+medications;5;1;LMR;ATC-kode på 2. nivå;SYSVAK;Vaksinekode;overlapping_information
+medications;5;1;LMR;ATC-kode på 3. nivå;SYSVAK;Vaksinekode;overlapping_information
+medications;5;1;LMR;ATC-kode på 4. nivå;SYSVAK;Vaksinekode;overlapping_information
+medications;5;1;LMR;ATC-kode på 5. nivå;SYSVAK;Vaksinekode;overlapping_information
+diagnoses;6;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);MSIS;Diagnose;overlapping_information
+diagnoses;6;1;LMR;Utleveringens ICD10-refusjonskode (verdi);MSIS;Diagnose;overlapping_information
+diagnoses;6;1;LMR;Utleveringens ICPC2-refusjonskode (beskrivelse);MSIS;Diagnose;overlapping_information
+diagnoses;6;1;LMR;Utleveringens ICPC2-refusjonskode (verdi);MSIS;Diagnose;overlapping_information
+abortion_method;7;1;LMR;ATC-kode på 1. nivå;ABR;abortmetode;overlapping_information
+abortion_method;7;1;LMR;ATC-kode på 2. nivå;ABR;abortmetode;overlapping_information
+abortion_method;7;1;LMR;ATC-kode på 3. nivå;ABR;abortmetode;overlapping_information
+abortion_method;7;1;LMR;ATC-kode på 4. nivå;ABR;abortmetode;overlapping_information
+abortion_method;7;1;LMR;ATC-kode på 5. nivå;ABR;abortmetode;overlapping_information
+pregenancy_prevention;8;1;LMR;ATC-kode på 1. nivå;ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;ATC-kode på 2. nivå;ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;ATC-kode på 3. nivå;ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;ATC-kode på 4. nivå;ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;ATC-kode på 5. nivå;ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;Utleveringens ICD10-refusjonskode (verdi);ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;Utleveringens ICPC2-refusjonskode (beskrivelse);ABR;Prevensjonsmetoder benyttet;overlapping_information
+pregenancy_prevention;8;1;LMR;Utleveringens ICPC2-refusjonskode (verdi);ABR;Prevensjonsmetoder benyttet;overlapping_information
+diagnoses;9;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);NRPHC;Diagnosekode;overlapping_information
+diagnoses;9;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NRPHC;Diagnosekode;overlapping_information
+diagnoses;9;1;LMR;Utleveringens ICPC2-refusjonskode (beskrivelse);NRPHC;Diagnosekode;overlapping_information
+diagnoses;9;1;LMR;Utleveringens ICPC2-refusjonskode (verdi);NRPHC;Diagnosekode;overlapping_information
+cancer_treatment;10;1;LMR;ATC-kode på 1. nivå;CRN;"Hormonbehandling; Kjemoterapi";overlapping_information
+cancer_treatment;10;1;LMR;ATC-kode på 2. nivå;CRN;"Hormonbehandling; Kjemoterapi";overlapping_information
+cancer_treatment;10;1;LMR;ATC-kode på 3. nivå;CRN;"Hormonbehandling; Kjemoterapi";overlapping_information
+cancer_treatment;10;1;LMR;ATC-kode på 4. nivå;CRN;"Hormonbehandling; Kjemoterapi";overlapping_information
+cancer_treatment;10;1;LMR;ATC-kode på 5. nivå;CRN;"Hormonbehandling; Kjemoterapi";overlapping_information
+diagnoses;11;1;LMR;Utleveringens ICD10-refusjonskode (beskrivelse);CRN;Topografi ICD10;overlapping_information
+diagnoses;11;1;LMR;Utleveringens ICD10-refusjonskode (verdi);CRN;Topografi ICDO3;overlapping_information
+cause_of_death;12;1;NCoDR;Alle diagnoser;MBRN;Barnets helse (diagnoser etc.) på føde-, barne- og abortmelding (restriktiv);overlapping_information
+cause_of_death;12;1;NCoDR;"Årsaksdiagnose Ia; Årsaksdiagnose Ib; Årsaksdiagnose Ic; Årsaksdiagnose Id; Årsaksdiagnose Ie; Årsaksdiagnose, uspesifisert";MBRN;Barnets helse (diagnoser etc.) på føde-, barne- og abortmelding (restriktiv);overlapping_information
+cause_of_death;12;1;NCoDR;Diagnosekode for underliggende dødsårsak;MBRN;Barnets helse (diagnoser etc.) på føde-, barne- og abortmelding (restriktiv);overlapping_information
+cause_of_death;13;1;NCoDR;Alle diagnoser;MSIS;Dødsdiagnose;overlapping_information
+cause_of_death;13;1;NCoDR;"Årsaksdiagnose Ia; Årsaksdiagnose Ib; Årsaksdiagnose Ic; Årsaksdiagnose Id; Årsaksdiagnose Ie; Årsaksdiagnose, uspesifisert";MSIS;Dødsdiagnose;overlapping_information
+cause_of_death;13;1;NCoDR;Diagnosekode for underliggende dødsårsak;MSIS;Dødsdiagnose;overlapping_information
+cause_of_death;14;0;NCoDR;Diagnosekode for underliggende dødsårsak;HKR;Diagnosekode for underliggende dødsårsak;same_name_same_information
+cause_of_death;15;0;NCoDR;Skadediagnose;HKR;Skadediagnose;same_name_same_information
+cause_of_death;16;1;NCoDR;"Årsaksdiagnose Ia; Årsaksdiagnose Ib; Årsaksdiagnose Ic; Årsaksdiagnose Id; Årsaksdiagnose Ie; Årsaksdiagnose, uspesifisert";HKR;"ICD kode IA fra dødsmelding; ICD kode IB fra dødsmelding; ICD kode ID fra dødsmelding; ICD kode IE fra dødsmelding; ICD kode II fra dødsmelding; ICD kode IU fra dødsmelding";same_name_same_information
+cause_of_death;17;1;NCoDR;Hjerte- og karrelatert dødsfall (kategorisert);HKR;Diagnosekode for underliggende dødsårsak;overlapping_information
+cause_of_death;17;1;NCoDR;Hjerte- og karrelatert dødsfall (kategorisert);HKR;"ICD kode IA fra dødsmelding; ICD kode IB fra dødsmelding; ICD kode ID fra dødsmelding; ICD kode IE fra dødsmelding; ICD kode II fra dødsmelding; ICD kode IU fra dødsmelding";overlapping_information
+cause_of_death;18;0;NCoDR;Diagnosekode for underliggende dødsårsak;CRN;Diagnosekode for underliggende dødsårsak;same_name_same_information
+cause_of_death;19;0;NCoDR;Dødsfall av svulster (kategorisert);CRN;Kategorisering av underliggende dødsårsak;overlapping_information
+cause_of_death;20;1;HKR;Diagnosekode for underliggende dødsårsak;MSIS;Dødsdiagnose;overlapping_information
+cause_of_death;20;1;HKR;"ICD kode IA fra dødsmelding; ICD kode IB fra dødsmelding; ICD kode ID fra dødsmelding; ICD kode IE fra dødsmelding; ICD kode II fra dødsmelding; ICD kode IU fra dødsmelding";MSIS;Dødsdiagnose;overlapping_information
+diagnoses;21;1;HKR;Bidiagnoser (Kodestreng);MSIS;Diagnose;overlapping_information
+diagnoses;21;1;HKR;"Hoveddiagnose, Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn";MSIS;Diagnose;overlapping_information
+cause_of_death;22;1;HKR;Diagnosekode for underliggende dødsårsak;CRN;Diagnosekode for underliggende dødsårsak;same_name_same_information
+cause_of_death;22;1;HKR;"ICD kode IA fra dødsmelding; ICD kode IB fra dødsmelding; ICD kode ID fra dødsmelding; ICD kode IE fra dødsmelding; ICD kode II fra dødsmelding; ICD kode IU fra dødsmelding";CRN;Diagnosekode for underliggende dødsårsak;same_name_same_information
+diagnoses;23;1;HKR;Bidiagnoser (Kodestreng);CRN;Topografi ICDO3;overlapping_information
+diagnoses;23;1;HKR;"Hoveddiagnose, Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn";CRN;Topografi ICD10;overlapping_information
+;24;0;HKR;Fagområde;NPR;Fagområde;same_name_same_information
+;26;0;HKR;Inntilstand;NPR;Inntilstand;same_name_same_information
+;26;0;HKR;Uttilstand;NPR;Uttilstand;same_name_same_information
+;27;0;HKR;Innmåte hastegrad;NPR;Innmåte hastegrad;same_name_same_information
+;28;0;HKR;Omsorgsnivå;NPR;Omsorgsnivå;same_name_same_information
+;29;0;HKR;Fra sted;NPR;Fra sted;same_name_same_information
+;30;0;HKR;Til sted;NPR;Til sted;same_name_same_information
+diagnoses;31;0;HKR;"Hoveddiagnose, Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn";NPR;ICD-10: Hovedtilstander;different_name_same_information
+diagnoses;32;0;HKR;Bidiagnoser (Kodestreng);NPR;ICD-10: Relevante bitilstander;different_name_same_information
+procedures;33;1;HKR;Prosedyrekoder (Kodestreng);NPR;NCMP - Medisinske prosedyrekoder;different_name_same_information
+procedures;33;1;HKR;Prosedyrekoder (Kodestreng);NPR;NCRP - Radiologiske prosedyrekoder (SOM);different_name_same_information
+procedures;33;1;HKR;Prosedyrekoder (Kodestreng);NPR;NCSP - Kirurgiske prosedyrekoder (SOM, AVTSOM);different_name_same_information
+diagnoses;34;1;HKR;"Hoveddiagnose; Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn; Bidiagnoser (Kodestreng)";MBRN;Barnets helse (diagnoser etc.) på føde-, barne- og abortmelding (restriktiv);overlapping_information
+diagnoses;34;1;HKR;"Hoveddiagnose; Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn; Bidiagnoser (Kodestreng)";MBRN;Eklampsi;overlapping_information
+diagnoses;34;1;HKR;"Hoveddiagnose; Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn; Bidiagnoser (Kodestreng)";MBRN;Kronisk hypertensjon;overlapping_information
+diagnoses;34;1;HKR;"Hoveddiagnose;Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn; Bidiagnoser (Kodestreng)";MBRN;Misdannelse i hjertet;overlapping_information
+diagnoses;34;1;HKR;"Hoveddiagnose;Hovenddiagnose, 2 tegn; Hoveddiagnose, 3 tegn; Bidiagnoser (Kodestreng)";MBRN;Mors helse før svangerskapet (restriktiv);overlapping_information
+birth_weight;35;0;HKR;Fødselsvekt;MBRN;Barnets vekt;different_name_same_information
+vaccination;36;1;SYSVAK;Covid-19;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Dengue;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Difteri;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Hepatitt A;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Hepatitt B;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Influensa;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Influensa A(H1N1);MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Kikhoste;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Kopper;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Kusma;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Meslinger;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Pneumokokksykdom;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Poliomyelitt;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Røde hunder;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Rotavirusdiaré;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Stivkrampe;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Tuberkulose;MSIS;Vaksinert;overlapping_information
+vaccination;36;1;SYSVAK;Vaksinekode;MSIS;Vaksinert;overlapping_information
+vaccination;37;1;SYSVAK;Covid-19;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Dengue;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Difteri;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Gulfeber;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Helvetesild;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Hendelsestype;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Hepatitt A;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Hepatitt B;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;HIB-infeksjon;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;HPV-infeksjon;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Influensa;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Influensa A(H1N1);NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Japansk encefalitt;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Kikhoste;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Kolera;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Kopper;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Kusma;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meningokokk sykdom, A;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meningokokk sykdom, B;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meningokokk sykdom, C;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meningokokk sykdom, W;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meningokokk sykdom, Y;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Meslinger;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Pneumokokksykdom;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Poliomyelitt;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Rabies;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Respiratorisk syncytial virus;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Røde hunder;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Rotavirusdiaré;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Skogflåttencefalitt;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Stivkrampe;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Tuberkulose;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Tyfoidfeber;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Vaksinekode;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+vaccination;37;1;SYSVAK;Vannkopper;NPR;NCMP - Medisinske prosedyrekoder;overlapping_information
+diagnoses;38;1;MSIS;Diagnose;NPR;ICD-10: Hovedtilstander;overlapping_information
+diagnoses;38;1;MSIS;Diagnose;NPR;ICD-10: Relevante bitilstander;overlapping_information
+;39;0;MSIS;ReistFraNorgeÅr;NPR;Emigrert dato;overlapping_information
+diagnoses;40;0;MSIS;Diagnose;NRPHC;Diagnosekode;overlapping_information
+;41;0;MSIS;UtfallAvGraviditet;MBRN;levestatus ved fødsel;overlapping_information
+diagnoses;42;0;MSIS;Diagnose;MBRN;Mors helse undersvangerskap;overlapping_information
+;43;0;MSIS;Yrkesgruppe;MBRN;Mors yrkesaktivitet;overlapping_information
+cause_of_death;44;0;MSIS;Dødsdiagnose;CRN;Diagnosekode for underliggende dødsårsak;overlapping_information
+;45;0;MSIS;UtfallAvGraviditet;ABR;abort utført;overlapping_information
+;46;0;MSIS;Yrkesgruppe;ABR;Arbeid/skolegang;overlapping_information
+procedures;47;0;NPR;NCSP - Kirurgiske prosedyrekoder;CRN;Kirurgi;overlapping_information
+procedures;48;0;NPR;NCMP - Medisinske prosedyrekoder;CRN;Kjemoterapi;overlapping_information
+procedures;49;0;NPR;NCRP - Radiologiske prosedyrekoder;CRN;Strålebehandling;overlapping_information
+medications;50;0;NPR;Sykehusadministrerte legemidler (ATC-koder);CRN;Hormonbehandling;overlapping_information
+diagnoses;51;1;NPR;ICD-10: Hovedtilstander;CRN;Topografi ICD10;overlapping_information
+diagnoses;51;1;NPR;ICD-10: Relevante bitilstander;CRN;Topografi ICDO3;overlapping_information
+diagnoses;52;1;NPR;ICD-10: Hovedtilstander;NRPHC;Diagnosekode;overlapping_information
+diagnoses;52;1;NPR;ICD-10: Relevante bitilstander;NRPHC;Diagnosekode;overlapping_information
+;53;0;NPR;Bor sammen med;NRPHC;Husstand;different_name_same_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Abruptio placentae;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Alvorlig medfødt misdannelse;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Anencefali;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Astma;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Barnet har leppespalte med eller uten ganespalte;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Barnet har leppespalte med eller uten ganespalte;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Blødning over 500 ml under/etter fødselen;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Cervixrift;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Diabetes;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Downs syndrom;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Dyp vaginalrift;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Encefalocele;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Epilepsi;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Facialisparese;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;For tidlig vannavgang;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Fractur claviculae (kragebensbrudd);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Gastroschise;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Hypospadi;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Intrakraniell blødning;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Klumpfot;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Komplikasjoner etter fødsel (restriktiv);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Komplikasjoner under fødsel (restriktiv);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Kromosomfeil;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Kronisk hypertensjon;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Kronisk nyresykdom;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Medfødt misdannelse;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Misdannelse i hjertet;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Mor omskåret, type;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Mors helse før svangerskapet (restriktiv);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Mors helse under svangerskapet (restriktiv);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Nevralrørsdefekter;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Omfalocele;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Perinealrift grad 1 eller 2;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Perinealrift grad 3 eller 4;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Placenta previa;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Plexusskade;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Preeklampsi;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Prenatal diagnostikk: Patologiske funn (restriktiv);overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Reduksjonsdefekt av ekstremitet;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;RespiratorIsk distressyndrom;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Spina bifida;overlapping_information
+diagnoses;54;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";MBRN;Tidlig preeklampsi;overlapping_information
+;55;0;NPR;Uker gravid;MBRN;Svangerskapslengde i uker;overlapping_information
+;56;0;NPR;Antall egne barn;MBRN;Tidligere fødte;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Anestesi/analgesi;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;CPAP-behandlet;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;CTG;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;EKG;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Epiduralanestesi;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Episiotomi;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Ikterusbehandlet;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Induksjon av fødsel: Amniotomi (hinnerivning);overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Induksjon av fødsel: Annen fremgangsmåte;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Induksjon av fødsel: Oxytocin;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Induksjon av fødsel: Prostaglandin;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Inngrep og induksjon (restriktiv);overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Keisersnitt utført;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Manuell fødselshjelp ved setefødsel;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Narkose;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Prenatal diagnostikk: Type (restriktiv);overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Respiratorbehandlet;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Risvekkelse, stimulert;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Spinalanestesi;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;STAN;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Tang;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Ultralyd-blodstrømsmåling;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Uttrekking ved seteleie;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Vaginal fødsel;overlapping_information
+procedures;57;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";MBRN;Vakuumekstraksjon;overlapping_information
+medications;58;0;NPR;Sykehusadministrerte (ATC-koder);MBRN;Systemisk antibiotika;overlapping_information
+;59;1;NPR;Liggetid ;MBRN;Liggedøgn mor;overlapping_information
+;59;1;NPR;Liggetid i rapporteringsåret;MBRN;Liggedøgn mor;overlapping_information
+procedures;60;1;NPR;Charlson komorbiditetsindeks;ABR;Klamydiatest er tatt;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Annen føtal punksjon utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Behandling av komplikasjon;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Blodtransfusjon utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Fosterblodprøve utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Fosterdiagnostikkmetoder benyttet;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Fostervannsprøve utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Kirurgisk revisjon av uterinhulen utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Laparoskopi utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Laparotomi utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Magnetisk resonans utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Maternell blodprøve utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Morkakeprøve utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Prosedyrekoder;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;P-stav satt inn da abort ble utført;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Spiral satt inn;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Sterilisering;overlapping_information
+procedures;60;1;NPR;"NCMP - Medisinske prosedyrekoder; NCSP - Kirurgiske prosedyrekoder; NCRP - Radiologiske prosedyrekoder";ABR;Ultralyddiagnostikk utført;overlapping_information
+pregnancy_duration;61;1;NPR;Uker gravid;ABR;Svangerskapslengde;overlapping_information
+pregnancy_duration;61;1;NPR;Uker gravid;ABR;Svangerskapslengde, dato for siste menstruasjon;overlapping_information
+pregnancy_duration;61;1;NPR;Uker gravid;ABR;Svangerskapslengde, ultralyd;overlapping_information
+pregnancy_duration;61;1;NPR;Uker gravid;ABR;Svangerskapslengde, uterus;overlapping_information
+;62;0;NPR;Antall egne barn;ABR;Antall tidligere fødsler og dødfødsler etter 22 fullgåtte uker;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Blodtransfusjon utført;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Komplikasjon ved abort;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Komplikasjonskoder;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Perforasjon av livmor;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Sterilisering;overlapping_information
+complications_abortion;63;1;NPR;"ICD-10: Hovedtilstander; ICD-10: Relevante bitilstander";ABR;Ufullstendig abort;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;Akse1 - Klinisk psykiatrisk syndrom;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;Akse2 - Spesifikke utviklingsforstyrrelser;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;Akse3 - Psykisk utviklingshemming;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;Akse4 - Somatiske tilstander;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;ICD-10: Hovedtilstander;overlapping_information
+diagnoses;64;1;LMR;Utleveringens ICD10-refusjonskode (verdi);NPR;ICD-10: Relevante bitilstander;overlapping_information
+diagnoses;65;0;NRPHC;Diagnosekode;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Astma;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Blødning i svangerskapet: 13.-28. uke;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Blødning i svangerskapet: etter 28. uke;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Blødning i svangerskapet: før 13. uke;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Diabetes;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Eklampsi;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Epilepsi;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;HELLP syndrom;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Hypertensjon alene;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Kronisk hypertensjon;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Kronisk nyresykdom;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Mor omskåret, type;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Mors helse før svangerskapet (restriktiv);overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Preeklampsi;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Reumatoid artritt;overlapping_information
+diagnoses;66;1;NRPHC;Diagnosekode;MBRN;Tidlig preeklampsi;overlapping_information
+;67;0;MBRN;Patologiske funn hos abortert foster;ABR;Patologiske funn hos aborterte fostre;overlapping_information
+;68;0;MBRN;For nemndbehandlete aborter: Svangerskapslengde i uker;ABR;Svangerskapslengde;overlapping_information
+;69;0;MBRN;Siste menstruasjons 1. blødningsdag;ABR;Dato for siste menstruasjon;different_name_same_information
+prior_miscarriages;70;1;MBRN;Tidligere spontanaborter før 12 fullgåtte uker;ABR;Antall tidligere spontanaborter før 22 fullgåtte uker;different_name_same_information
+prior_miscarriages;70;1;MBRN;Tidligere spontanaborter før 12 fullgåtte uker gruppert i 5 kategorier;ABR;Antall tidligere spontanaborter før 22 fullgåtte uker;different_name_same_information
+prior_miscarriages;70;1;MBRN;Tidligere spontanaborter/dødfødte 12. - 23. uke;ABR;Antall tidligere spontanaborter før 22 fullgåtte uker;different_name_same_information
+prior_miscarriages;70;1;MBRN;Tidligere spontanaborter/dødfødte 12. - 23. uke gruppert i 5 kategorier;ABR;Antall tidligere spontanaborter før 22 fullgåtte uker;different_name_same_information
+;71;0;MBRN;Svangerskapsavbrudd etter abortloven § 2 tredje ledd bokstav c;ABR;abort utført;overlapping_information
+;72;0;MBRN;Mor motsetter seg innsamling av røykeopplysninger;ABR;Motsetter seg å oppgi røykeopplysninger;different_name_same_information
+;73;0;MBRN;Det finnes opplysninger om mors røykevaner i svangerskapet;ABR;Røykeopplysninger tilgjengelig;different_name_same_information
+;74;0;MBRN;Røykte mor før svangerskapets begynnelse?;ABR;Røyking;different_name_same_information
+;75;0;MBRN;Antall sigaretter mor røykte daglig før svangerskapet;ABR;Antall sigaretter daglig;different_name_same_information
+;76;0;MBRN;Mors yrkesaktivitet;ABR;Arbeid/skolegang;overlapping_information
+diagnoses;77;1;MBRN;Astma;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Diabetes;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Epilepsi;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Kronisk hypertensjon;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Kronisk nyresykdom;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Mor omskåret, type;ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;77;1;MBRN;Mors helse før svangerskapet (restriktiv);ABR;Kvinnens helse før svangerskapet;overlapping_information
+diagnoses;78;0;MBRN;Barnets helse (diagnoser etc.) på føde-, barne- og abortmelding (restriktiv);CRN;Topografi ICD10;overlapping_information
+diagnoses;79;0;MBRN;Mors helse før svangerskapet (restriktiv);CRN;Topografi ICD10;overlapping_information
+comorbidity_indices;80;1;NPR;Charlson komorbiditetsindeks;CRN;Modifisert komorbiditetsindeks - 2 år;overlapping_information
+comorbidity_indices;80;1;NPR;Charlson komorbiditetsindeks;CRN;Original komorbiditetsindeks - 2 år;overlapping_information
+comorbidity_indices;80;1;NPR;Patient Register Index;CRN;Modifisert komorbiditetsindeks - 4 år;overlapping_information
+comorbidity_indices;80;1;NPR;Patient Register Index;CRN;Original komorbiditetsindeks - 4 år;overlapping_information
+hospital_stay;81;1;NPR;Omsorgsnivå;ABR;Behandlingsnivå;overlapping_information

@@ -2,7 +2,7 @@
 
 Data, analysis code, and figures supporting:
 
-> Elmalig, V. et al. "Navigating data selection for research using Norwegian health registry data: A guide to understanding overlapping information between registries." *European Journal of Public Health* (submitted).
+> Elmalih, V. et al. "Navigating data selection for research using Norwegian health registry data: A guide to understanding overlapping information between registries." *European Journal of Public Health* (submitted).
 
 This repository maps overlapping variables across ten central Norwegian health registries, to help researchers and registry advisors identify which variables are genuinely interchangeable across registries, and which only look similar on the surface.
 

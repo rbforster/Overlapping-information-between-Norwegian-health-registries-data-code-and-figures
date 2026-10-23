@@ -36,7 +36,7 @@ Both scripts are provided as run, for transparency and reproducibility. See each
 
 ## Data availability statement
 
-The data and code supporting the findings of this study are openly available in this repository: [repository URL]. The underlying registry metadata was obtained from the [HelseData.no](https://helsedata.no) metadata catalogue.
+The data and code supporting the findings of this study are openly available in this repository: [Github.com] (https://github.com/rbforster/Overlapping-information-between-Norwegian-health-registries-data-code-and-figures). The underlying registry metadata was obtained from the [HelseData.no](https://helsedata.no) metadata catalogue.
 
 ## License
 

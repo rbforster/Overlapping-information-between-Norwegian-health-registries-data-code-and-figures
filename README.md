@@ -2,14 +2,14 @@
 
 Data, analysis code, and figures supporting:
 
-> Forster, R. et al. "Navigating data selection for research using Norwegian health registry data: A guide to understanding overlapping information between registries." *European Journal of Public Health* (submitted).
+> Elmalig, V. et al. "Navigating data selection for research using Norwegian health registry data: A guide to understanding overlapping information between registries." *European Journal of Public Health* (submitted).
 
-This repository maps overlapping variables across ten central Norwegian health registries (NPR, NRPHC, HKR, NCoDR, MBRN, LMR, ABR, SYSVAK, MSIS, CRN), to help researchers and registry advisors identify which variables are genuinely interchangeable across registries, and which only look similar on the surface.
+This repository maps overlapping variables across ten central Norwegian health registries, to help researchers and registry advisors identify which variables are genuinely interchangeable across registries, and which only look similar on the surface.
 
 ## Repository structure
 
 ```
-data/           source data: the full variable catalogue, the overlap classification,
+data/           source data: the full variable catalogue (downloaded from HelseData.no 2026-08-17), the overlap classification,
                 and the data underlying the data-flow figure (see data/README.md)
 code/           R scripts used to produce the manuscript's figures
 figures/        the figures and supplementary figures as published
